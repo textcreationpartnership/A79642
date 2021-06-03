@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain prayers fitted to severall occasions. And are to be used in His Majesties armies. Published by His Highnesse command.</title>
+         </titleStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79642</idno><idno type="EEBO-CITATION">99867499</idno>
+  <idno type="VID">119812</idno>
+  <idno type="EEBO-PROQUEST">2240956518</idno>
+  
+            <idno type="STC">Wing C4091D</idno>
+            <idno type="STC">Thomason E1146_5</idno>
+            <idno type="STC">ESTC R208556</idno>
+            <idno type="PROQUEST">99867499</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867499e"/>
+            <note>(EEBO-TCP ; phase 2, no. A79642)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119812)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 164:E1146[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain prayers fitted to severall occasions. And are to be used in His Majesties armies. Published by His Highnesse command.</title>
+               </titleStmt>
+               <extent>[4], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Soldiers --  England --  Prayer-books and devotions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119812:1"/>
+            <pb facs="tcp:119812:1"/>
+            <p>
+               <hi>CERTAIN</hi> PRAYERS FITTED To severall Occasions. AND Are to be used in <hi>His Majesties ARMIES.</hi>
+            </p>
+            <p>
+               <hi>Published by His Highnesse Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON.</hi> Printed in the Yeare, 1648.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:119812:2"/>
+            <p>
+               <figure>
+                  <figDesc>royal coat of arms</figDesc>
+                  <p>DIEV. ET MON. DROIT</p>
+               </figure>
+            </p>
+         </div>
+         <div type="list_of_Psalms">
+            <pb facs="tcp:119812:2"/>
+            <p>
+               <hi>PSalmes to be Said or Sung, upon the setting the Guards,</hi> Psalm. 80. <hi>three last Staves, or</hi> Psal. 134. Psal. 127. v. 1, 2.</p>
+            <p>
+               <hi>Ʋpon marching forth,</hi> Psal. 23. <hi>or first Staffe of</hi> Psal. 144.</p>
+            <p>
+               <hi>Before a Battle, three first Staves of</hi> Psal. 68.</p>
+            <p>
+               <hi>For Deliverance, or Victory, five first Staves of</hi> Psal. 76. <hi>or the last part of</hi> Psal. 69.</p>
+            <p>
+               <hi>Jn time of Distresse,</hi> psal. 20.</p>
+            <p>
+               <hi>For Peace,</hi> psal. 122.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Psalm_excerpts">
+            <pb facs="tcp:119812:3"/>
+            <pb n="1" facs="tcp:119812:3"/>
+            <head>
+               <hi>A Psalm preparatory: Collected out of severall passages in the Booke of</hi> PSALMES.</head>
+            <p>
+               <label>Psal. 27.1.</label>
+               <seg rend="decorInit">T</seg>He Lord is our Light, and our Salvation, whom then shall we fear? the Lord is the Strength of our Life, of whom then shall we be a<g ref="char:EOLhyphen"/>fraid?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>3</label> Though an Host of men were laid against us, yet shall not our hearts be afraid: and though there rose up War against us, yet will we put our trust in him.</p>
+            <p>
+               <label>Psal. 46.1.</label> God is our hope and Strength: a very present help in the time of trouble.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>2</label> Therefore will we not fear, though the Earth be moved: and though the Hils be carried into the midst of the Sea.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>3</label> Though the Waters thereof rage and swell: and though the Mountains shake at the Tempest of the same.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>7</label> For the Lord of Hosts is with us: the God of <hi>Jacob</hi> is our Refuge.</p>
+            <pb n="2" facs="tcp:119812:4"/>
+            <p>
+               <label>Psal. 44.5.</label> Thou art our King O God: Send help unto <hi>Iacob.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>6</label> Through thee will we overthrow our E<g ref="char:EOLhyphen"/>nemies, and in thy name will we tread them under that rise up against us.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>7</label> For we will not trust in our Bow, it is not our Sword that shall help us.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>8</label> But it is thou that savest us from our Ene<g ref="char:EOLhyphen"/>mies, and puttest them to confusion that hate us.</p>
+            <p>
+               <label>Psal. 35.1.</label> Plead thou therefore our Cause, O Lord, with them that strive with us, &amp; fight thou against them that fight against us.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>2</label> Lay hand upon the Shield and Buckler: and stand up to help us.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>19</label> O let not them that are our Enemies triumph over us ungodly: neither let them wink with their Eyes that hate us without a cause.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>20</label> And why? their communing is not for Peace; but they imagine deceitfull words against them that are quiet in the Land.</p>
+            <p>
+               <label>Psal. 62.4.</label> Their device is onely how to put him out whom God will exalt: their delight is in lies, they give good words with their Mouth, but curse with their Heart.</p>
+            <p>
+               <label>Psa. 35.22.</label> This thou hast seen, O Lord: hold not thy tongue then, go not far from us, O Lord.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>23</label> Awake, and stand up to judge our Quar<g ref="char:EOLhyphen"/>rell:
+<pb n="3" facs="tcp:119812:4"/>avenge thou our Cause, our God, and our Lord.</p>
+            <p>
+               <label>Psa. 144.7.</label> Send down thine hand from above, de<g ref="char:EOLhyphen"/>liver us, and take us out of the great waters from the hand of strange Children.</p>
+            <p>
+               <label>Ps. 18.50.</label> For this Cause wil we give thanks to thee, O God, among the Gentiles: and sing Praises unto thy Name.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>51</label> Great Prosperity giveth He unto his King: and sheweth loving kindnesse unto <hi>David</hi> his anointed, and unto his seed for ever<g ref="char:EOLhyphen"/>more.</p>
+            <p>
+               <label>Ps. 56.10.</label> For in Gods word will we rejoyce, in the Lords word will we comfort our selves.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>11</label> Yea, in God have we put our trust: we will not fear what Man can do unto us.</p>
+            <epigraph>
+               <q>
+                  <p>Glory be to the Father, and to the Son, and to the Holy Ghost.</p>
+                  <p>As it was in the beginning, is now, and ever shall be, world without end. <hi>Amen.</hi>
+                  </p>
+               </q>
+            </epigraph>
+         </div>
+         <div type="prayer">
+            <pb n="4" facs="tcp:119812:5"/>
+            <head>A Prayer to be said at the set<g ref="char:EOLhyphen"/>ting forth of an Army, or before they March.</head>
+            <p>GLorious Lord God of Hosts, in whose strength the Israelites marcht of old, and prevailed against their E<g ref="char:EOLhyphen"/>nemies; thou who wast then pleased to go before thy People, as their guide, and be<g ref="char:EOLhyphen"/>hind them also (when need was) to be their defender; hear us, we beseech thee, and be present with us, who, in the humility of our minds, and sincerity of our hearts, do now call upon thee, for thy protection. It is not our own Arm, O Lord, nor any Child of man that we trust to; thou thy self hast told us, that there is no help in them. All our desires are wholly to thee: We go not out, but in thy Name; we do not arm our selves, but in thy Fear; nor shall we ever at<g ref="char:EOLhyphen"/>tempt any thing, but by thy Power. The race is not to the swift, nor the battell to the strong: to thee alone belong the issues of War, nor shall we hope for any successe from any other; For whom have we in heaven, but thee? and there is none upon
+<pb n="5" facs="tcp:119812:5"/>earth that we desire, in comparison of thee. O be thou our guide then, and our defence, our God, our Shield, and our strong Salva<g ref="char:EOLhyphen"/>tion; So shall five of us chace an hundred, and an hundred of us shall put ten thousand to flight. Our Enemies shall come out a<g ref="char:EOLhyphen"/>gainst us one way, but they shall flie before us seven waies; and thou, even thou alone, shall be glorified in their confusion. To this end, regard, O Lord, not the cry of our sins, that presse thee hourly for more vengeance, but the justice of our cause, that pleads strongly for some favour. It is not Ambition, or Malice, that hath thrust us into this posture, but the necessary defence of thy Church, thy Truth, our Laws, our Liberties, and the Obedience which we owe, under thee, unto thine Anoynted. O let us ever remember what thou hast so strictly commanded, that when we go forth with the host, against the Enemy, we should then (as at all other times, but then especi<g ref="char:EOLhyphen"/>ally) keep our selves from every wicked thing. Teach us, good God, and assist us by thy Spirit, that as we carry our lives in our hands, so we may also have thy fear in our hearts, thy praise in our mouths, thy great goodnesse in remembrance, and thy grace to lead us in all our waies. Let us fear thee, as we ought, and none but thee, that
+<pb n="6" facs="tcp:119812:6"/>so we may not fear what man can do unto us. Put away far from us, as all presum<g ref="char:EOLhyphen"/>ption and vain boasting, so all faintnesse of spirit: Let us not thus turn either to the right hand, or to the left: Onely let us be strong, but in thee; and of a good courage, but onely in hope of thy Salvation. Make our Battels wholly thine, that they may end in Victory; and in thy good time crown all our Victories with an honourable and a Christian Peace. In the mean time preserve us, as from danger, so from want. Sustain us by thy Power, and supply us by thy Goodnesse. Continue and confirm unto us the blessing of health; Make us all of one mind, and of one heart, and drive away that evill spirit of Division far from us. As oft as we arm this outward, let us not forget the inward man. Let him also put on the Breast-plate of Righteousnesse, the Shield of Faith, the Helmet of Salvation, and the Sword of the Spirit, which is, the Word of God. As oft as we move, and march, let us fix our eye, the eye of Faith, as they of old, on the Land of Promise; so we, on that heavenly <hi>Canaan,</hi> the new <hi>Hierusalem,</hi> which is the mother of us all. And because there is no way thither, but thorow the red Sea of our Saviours Blood, open us, we be<g ref="char:EOLhyphen"/>seech thee, that passage, and let all those
+<pb n="7" facs="tcp:119812:6"/>spirituall Aegyptians, our Sins, find there an eternall grave, where we hope for everla<g ref="char:EOLhyphen"/>sting Salvation: that after all the toylsome motions of this mortall life, when we have finished our warfare upon earth, fought a good fight, and kept the faith, we may at length be admitted unto that blessed vision of everlasting Peace, in the glorious pre<g ref="char:EOLhyphen"/>sence of thee our God: and that for Jesus Christ his sake, to whom, with the Father and the Holy Ghost, three Persons, but one eternall and onely wise God, be ascribed all Honour and Glory, Might, Majesty and Dominion from this time forth, and for evermore. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>A Prayer for the Souldiers, to be said at the Parade, or setting of the Guard.</head>
+            <p>O Almighty &amp; most gracious God, who hast made all things by thy Power, and watchest over all by thy Providence, hear us, we beseech thee, in these our Prayers, and let thy blessing be upon us, in this our duty; that being un<g ref="char:EOLhyphen"/>dertaken out of loyalty and conscience, in thy Fear, it may accordingly be discharg'd, with all due care and fidelity, under thy
+<pb n="8" facs="tcp:119812:7"/>Protection. Teach us, O Lord, in those our corporall Enemies, to remember and consider the Spirituall, how much it con<g ref="char:EOLhyphen"/>cerns us to stand upon our guard, as against the one, for the safety of our Bodies; so much more against the other, for the salva<g ref="char:EOLhyphen"/>tion of our poor Souls: Let this present po<g ref="char:EOLhyphen"/>sture mind us of what thou hast so often commanded every Christian, in his parti<g ref="char:EOLhyphen"/>cular station, to Watch and to Pray, that he enter not into Temptation. In the dead silence and shadow of the night, let us con<g ref="char:EOLhyphen"/>template the horrour of that everlasting Darknesse, where is nothing but weeping and gnashing of teeth. Gracious God, raise up in us, and sanctifie to us, these wholsome Meditations, and grant us Grace so to think of those things, that we may never feel them. To this end, let thy loving kind<g ref="char:EOLhyphen"/>nesse be towards us, in the day time, and in the night season, let us sing of thee, and make our Prayer unto thee, who art the God of our life. But since we have it from thine owne mouth, That except thou keep the City, the Watchman waketh but in vain; guard us, we beseech thee, and this place, O thou who art the great keeper of Israel. Thou that doest neither slumber nor sleep, Watch with us, and Watch over us; Save and defend us from the hands of
+<pb n="9" facs="tcp:119812:7"/>all our Enemies, that we may serve thee without fear, in Holinesse and Righteous<g ref="char:EOLhyphen"/>nesse all the daies of our life, through Jesus Christ our Lord.</p>
+         </div>
+         <div type="prayer">
+            <head>A Prayer before the Battle.</head>
+            <p>O Eternall Lord God, in whose hands are the Issues of War, the Lord of Hosts, and the God of Battels; We, thy unworthy servants, appeal unto thee at this time, as to the Judge of the whole Earth, who only judgest equally be<g ref="char:EOLhyphen"/>tween the Sons of Men, humbly beseeching thee to look down from Heaven, not on the Sins of our Army, but on the Cause, which we stand ready to maintain. See our Reli<g ref="char:EOLhyphen"/>gion questioned, and threatned to be rooted out, the Crown of the King struck at, and our Laws, and Liberties ready to expire; and having seen it, judge this day between our Enemies and us. If it be thy Cause (as certainly thy Cause it is) for which we now stand ready to Sacrifice our Lives, shew to the World, that the disorders and Sins of Men cannot make thee utterly forsake it. Defend it, we humbly beg of thee, though it be by the hands of Sinners; be in the
+<pb n="10" facs="tcp:119812:8"/>midst of us, in our leading on, and in our comming off, and Sanctifie us by the pre<g ref="char:EOLhyphen"/>sence of thy Holy Spirit: Let Him be Wis<g ref="char:EOLhyphen"/>dome in the Breasts of our Commanders, Strength in the Hands of our Souldiers, Courage, and Piety in the Hearts of all, And that we may with the more Security meet our Dangers, Seal to every Soul here, this day, the forgivenesse of all our Sins. And howsoever it shall please thee to dis<g ref="char:EOLhyphen"/>pose of us in this Battle, Thy blessed Will, Holy Father, be done; Be unto us, both in Life, and in Death, advantage; and grant that we may either come off with Victory, and live thy Servants, or expect our Gar<g ref="char:EOLhyphen"/>land in the next life, and die thy Martyrs; and that for his sake who hath shed his Bloud for us, even Jesus Christ the Righte<g ref="char:EOLhyphen"/>ous, to whom, with the Father, and the Holy Spirit be all Honour, and Glory, this day, and for ever. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>A Prayer for a place besieged.</head>
+            <p>O Most just God, the Lover, and Rewarder of Truth and Loyalty, and the Protector of them that put their trust in thee, afford, we beseech thee,
+<pb n="11" facs="tcp:119812:8"/>the Shadow of thy Wings to all Persons and Places who in Obedience to thy Holy Commands, as yet, continue Loyall to the King, especially such as are now streightned and besieged by thine, and our Enemies. Send thy Holy Angels to be a guard unto them, and let thine owne presence be as a Wall of Fire about them. Strengthen their Hands, and Hearts, take away their Fears, prevent Treachery, supply their Wants, let not the Meale in the Barrell, nor the Oyle in the Cruise fail them, till the time of their deliverance come. And as for those who now come about them like Bees, let them be extinct as the fire among the Thorns, deal with them, O Lord, as thou didst with the Host of <hi>Senacherib,</hi> or if not so, yet fasten thy Hook in their Nostrils, and turn them back at least with shame, and dis<g ref="char:EOLhyphen"/>honour, as many as have Evill will at <hi>Sion;</hi> so shall we, that are thy Servants, glorifie thy Name, and say with thy holy Prophet, The snare is broken, and we are delivered. Grant this, O God, through the Mediation of him that pleads for us. Jesus Christ our Lord. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayers">
+            <pb n="12" facs="tcp:119812:9"/>
+            <head>Prayers in the day of Battle.</head>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Lord have mercy upon us.</p>
+            </sp>
+            <sp>
+               <speaker>Peop.</speaker>
+               <p>
+                  <hi>Christ have mercy upon us.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Lord have mercy upon us. Our Father which art in heaven, <hi>&amp;c.</hi> O God make speed to save us.</p>
+            </sp>
+            <sp>
+               <speaker>Peo.</speaker>
+               <p>
+                  <hi>O Lord make haste to help us.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Arise O Lord, and let the enemies of thy truth be scattered.</p>
+            </sp>
+            <sp>
+               <speaker>Peo.</speaker>
+               <p>
+                  <hi>And let all them who hate it, flee be<g ref="char:EOLhyphen"/>fore thee.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Be thou our present help against our Enemies.</p>
+            </sp>
+            <sp>
+               <speaker>Peo.</speaker>
+               <p>
+                  <hi>For vain is the help of man.</hi>
+               </p>
+            </sp>
+         </div>
+         <div type="prayer">
+            <head>A Prayer for the Civill State of this Kingdome.</head>
+            <p>ALmighty &amp; everlasting God, foun<g ref="char:EOLhyphen"/>der and governour of Monarchies, and Kingdomes, who doest plant them in mercy, and doest destroy them in justice; we thankfully acknowledge that thou hast in mercy, blessed us, and our fore<g ref="char:EOLhyphen"/>fathers (throughout many Generations) with a most happy Government, under a
+<pb n="13" facs="tcp:119812:9"/>King, as Supreme; and we humbly con<g ref="char:EOLhyphen"/>fesse also, that for the many sins, &amp; beymous abominations of this land; Thou mayest now in justice, pluck us, up, and root us out, that we be no longer, a Monarchy, and Kingdome: And now Enemies are risen up, and conspire against it, and are confederate together, saying, Down with it, Down with it; and even now make themselves ready to joyne Battle with us, that they may o<g ref="char:EOLhyphen"/>verthrow it, and that One man may no lon<g ref="char:EOLhyphen"/>ger reigne over us; But in thy name, O blessed Lord, and in obedience to thy tommands, we now go forth, to help the King (whom thou hast set over us) against the mighty: And therefore we most ear<g ref="char:EOLhyphen"/>nestly beseech thee (O thou Lord of Hosts, who hast commanded us into Armes) that thou wouldst whet the edge of our swords, and sharpen the points of our spears, and that thou wouldest give us victory in this day of Battle: O thou King of Kings, suf<g ref="char:EOLhyphen"/>fer not them whom thou hast put in sub<g ref="char:EOLhyphen"/>jection under thy Vicegerent, our King, to prevail against him, and rule over him; nor the Scepter which thou hast given to him, be wrested from him. O Lord, our rock and our strength, protect thou us, that no wea<g ref="char:EOLhyphen"/>pon formed against us, may hurt us; and assist us now against our enemies, for in
+<pb n="14" facs="tcp:119812:10"/>thee onely is our trust, and our hope: Oh restore us we beseech thee (by the good suc<g ref="char:EOLhyphen"/>cesse of this Battle) to our auncient order, and peaceable government: Deal not with us, O Lord, according to our sins, nor re<g ref="char:EOLhyphen"/>ward us after our iniquities, lest our Armies and we all be utterly destroyed, and our whole Land wasted: But satisfie us again (we beseech thee) with those mercies, which thou hast shewed to us ever of old, and in this needfull time of danger, visit us with thy salvation: Let thy mighty hand now again establish the auncient foundations of this Kingdome, and thine out stretched arme beare up the pillars of it: Then shall the King rejoyce in thy strength, O Lord, and under him we shall be godly and quiet<g ref="char:EOLhyphen"/>ly governed. Grant this, O Lord, for thy Son, our blessed Saviours sake, Jesus Christ; <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>A Prayer for the Ecclesiasticall state of this Kingdome.</head>
+            <p>ALmighty God, who hast builded thy Church upon the foundation of the Apostles and Prophets, Jesus Christ himself being the head corner stone; and
+<pb n="15" facs="tcp:119812:10"/>by whose inspiration our godly Reformers built upon that foundation, the gold of pure doctrine and discipline, in this our nationall Church; we most humbly beseech thee, that thou wouldst be pleased to continue that pure doctrine, and discipline amongst us; let the same holy spirit guide us, and our posterity to the ends of the world: E<g ref="char:EOLhyphen"/>specially at this time, now so many are be<g ref="char:EOLhyphen"/>come our enemies, because of that truth, now O Lord defend it, we most earnestly pray thee, and establish it among us: They are encreased, O Lord, who hate it, and they who pull down thy precious gold, and instead of it, build stubble, are many in number. And now, O God, seeing thou hast put zeale and courage into the hearts of us thy servants, to go out with our Ar<g ref="char:EOLhyphen"/>mies, and to defend that truth against them; oh, be thou our guide, and our Cap<g ref="char:EOLhyphen"/>tain. Blessed Lord, teach thou our hands to war, and our fingers to fight, and subdue thou the people that rise up against us: A<g ref="char:EOLhyphen"/>rise, ô arme of the Lord, arise, and put on strength; for the time is come that thou put on strength, yea, the time is come: O Lord, if ever, at any time, now also help us, for we are at the very point to put from thy City, thy Temple, and the laws of them; from the order and service of thy worship, and
+<pb n="16" facs="tcp:119812:11"/>from the publick profession of thy truth, the very beauty of holinesse, now therefore if ever at any time, now also help us: we have sinned, we have sinned O Lord, do thou un<g ref="char:EOLhyphen"/>to us what shall seem good in thy sight; on<g ref="char:EOLhyphen"/>ly deliver thy truth, in these extremities of danger: O let it grow mighty again, and prevail against the errours of our enemies, and suffer not the glory of Israel to be chan<g ref="char:EOLhyphen"/>ged, for that which doth not profit: Arise O Lord and help us for thy truths sake, that it may now, and ever, flourish in this thy Church, and be from hence, propagated to the ends of the earth. Grant this, O Lord, for thy Sons sake, our blessed Saviour Jesus Christ. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>
+               <hi>A Prayer for the</hi> KING.</head>
+            <p>O Most righteous, but withall most mercifull Lord God, who in thy secret judgments hast suffer'd thine Anointed to fall into the snares of wicked and deceitfull men; look down we beseech thee with thy compassionate eyes on his long, and bitter sufferings. Hear the pray<g ref="char:EOLhyphen"/>ers and cries which are offered up daily for
+<pb n="17" facs="tcp:119812:11"/>him. Shew some token on him for good, even now. O God, when he is at the lowest, desamed, despised, imprison'd; his Crown tom from his head, and the Sword which thou committed'st to him wrested out of his hand; this is thy hower, O Lord, this is thy time; now save him from the great waters that are come even into his soule, snatch him out of the jawes of these Lions, from among the horns of the Unicorns; now shew thy self thou that art the Judge of the whole earth, vindicate his cause, con<g ref="char:EOLhyphen"/>found his enemies, restore his rights. Do it, O Lord, but do it after thine own way, and with thine own stretched-out arme, that the amazed world may say, See, see, this hath the Lord done, and the work shall be won<g ref="char:EOLhyphen"/>drous in our eyes, so shall both King and people once more rejoice, praising thee, and saying, Glory be to God on high, in earth peace, good will towards men, from this time forth for evermore. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>
+               <hi>A Prayer for the</hi> PRINCE.</head>
+            <p>ALmighty God, who do'st establish the thrones of Princes, and the suc<g ref="char:EOLhyphen"/>cession in those thrones, by giving
+<pb n="18" facs="tcp:119812:12"/>thy judgments to the King, and thy righte<g ref="char:EOLhyphen"/>ousnesse to the King's Son; Blesse to us, we beseech thee, the great pledge of thy fa<g ref="char:EOLhyphen"/>vour, and the earnest of our hopes, the Heir of these Kingdoms, Prince CHARLES, sanctifie his younger yeares with thy feare and love, and the whole course of his life with the guidance of thy spirit; order him in all his waies, that he may prove a man according to thine own heart, pretious in thy sight, and dear to all thy people. And since it hath pleased thee to shew him to the world in these troubled times of danger and confusion, arme him with all advantages of counsell and successe, set evident and ear<g ref="char:EOLhyphen"/>ly marks of thy favour on him, restore him to us in due time, with safety and with ho<g ref="char:EOLhyphen"/>nour, and make his innocent hands the hap<g ref="char:EOLhyphen"/>py instruments of supporting his Fathers Crowne, and restoring peace to this distra<g ref="char:EOLhyphen"/>cted Church and Nation. Hear us, O God, for thine own Sons sake the prince of peace, Jesus Christ our Lord. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <pb n="19" facs="tcp:119812:12"/>
+            <head>A Prayer for the Kingdome.</head>
+            <p>O Most glorious Lord God, whose dwelling is above the heavens, and yet humblest thy self to behold the things that are done upon the earth, who seest our miserable distractions, who know<g ref="char:EOLhyphen"/>est the causes, and canst onely apply the re<g ref="char:EOLhyphen"/>medies; be gratious and mercifull to this wretched people; subdue powerfully their hearts &amp; their affections to thee their God, and to thine anointed servant the King, infuse into them once againe the spirit of Christian loyalty and obedience; undeceive their seduced souls, that they may no lon<g ref="char:EOLhyphen"/>ger joyne with them who imagine mischief as a law, and would pull down him, whom thou hast exalted. O let the pretious bloud of thy dear Son expiate the crying sins of this Nation, remember thine old mercies and that soon, for we are brought very low, call in the destroying sword, and prevent the sheding of more bloud, if it be thy bles<g ref="char:EOLhyphen"/>sed will, and by thine unspeakable wisdom, where all humane wisdome fails, set such an end to those bloudy and unnaturall divisi<g ref="char:EOLhyphen"/>ons, as may be most for the glory of thy name, the settlement of thy Religion so long profest among us, the honour and
+<pb n="20" facs="tcp:119812:13"/>safety of the Kings sacred person, and the good of all his people. Grant this, O God, for the mediation of thine only Son Jesus Christ our Lord. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>A Prayer for the Army, and Navy.</head>
+            <p>O Most gratious &amp; powerfull Lord God, in whose hands are the hearts of all men to turne them as thou doest the rivers of waters; We humbly ac<g ref="char:EOLhyphen"/>knowledge it to be thy worke that thou hast begun to open the eyes of this seduced people, and to see in this their day the things that belong unto their peace. And as this hath proceeded from thee alone, so let thy blessing be upon all them who in a deep sense of their bounden loyalty and duty, do at this time put their lives in their hands, and are ready to venture them with all that is dear to them in thy cause; O strengthen their hands and their hearts, both on Land and Sea, that they may not faint and fall in the day of battle; be with them in their counsels to guide them, and in their at<g ref="char:EOLhyphen"/>tempts to prosper them. Kindle more and more the affections of the rest that are as
+<pb n="21" facs="tcp:119812:13"/>yet but lookers on, that all thy people may at last joyne as one man to restore their King, and to regain their former peace and happinesse. As for their enemies let them no longer glory in their wickednesse, and triumph in the ruine of thy Church and people, but either convert them in thy mer<g ref="char:EOLhyphen"/>cy, or confound them in their pride, that they may know, and feel their waies are hatefull to thee. In the mean time, keep us, O God, under the shadow of thy wings, till this tyranny be overpast; hear the prayers and groans of the oppressed, raise up some <hi>Moses</hi> to stand in the gap, and to turn thy judgments from us, that we may serve thee without fear in holinesse and righteousnesse all the daies of our life. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>A Prayer in time of distresse and danger.</head>
+            <p>O God, O God, look upon us, why hast thou forsaken us, and art so far from our health, and from the words of our complaint? O God, we cry in the day time, and in the night season also we take no rest, yet thou hearest not; Our Fathers trusted in thee, and were not con<g ref="char:EOLhyphen"/>founded,
+<pb n="22" facs="tcp:119812:14"/>they called upon thee, and were holpen: but as for us, how long shall we cry, O Lord, and thou wilt not hear, even cry, unto thee of violence, and thou wilt not save! why doest thou still shew us ini<g ref="char:EOLhyphen"/>quity, and cause us to behold grievance? for there are that raise up contention among us; spoyling, and violence, and blood are before us; the people are risen up as an ene<g ref="char:EOLhyphen"/>my against us, a bitter and hasty people, which march thorow the breadth of the land to possesse the dwelling places which are not theirs; and we have prayed unto thee, O Lord, but thou doest not answer us; we have called upon thee, yet thou do'st not deliver us; But thine indignation is powred out upon the land, more and more, and thine anger burns like fire. The sword is drunk with bloud, and the carcasses of the people have been cast as dung upon the face of the earth; and we also are all num<g ref="char:EOLhyphen"/>bred to the slaughter. Yea, Lord, the mean man is risen up, and prevails against the ho<g ref="char:EOLhyphen"/>nourable, and fire out of the Bramble de<g ref="char:EOLhyphen"/>voureth the lofty Cedars; for how is the beauty of Israel slaine, how are the migh<g ref="char:EOLhyphen"/>ty fallen, and the Nobles vilely cast a<g ref="char:EOLhyphen"/>way? and how is he, who is the breath of all our nostrils, he who is worth ten thou<g ref="char:EOLhyphen"/>sand of us, in hazard and danger, as though
+<pb n="23" facs="tcp:119812:14"/>he had not been Anointed with Oyle. And in this height of our distresse, thou, O Lord, standest still afar off, and goest not forth with our Armies; thou makest us to turn our backs upon our enemies, so that they which hate us, laugh us to scorn; but we will still seek unto thee, O thou King of Kings; we will still call upon thee, O thou preserver of men. Spare us (O Lord most gracious, O God most mercifull) and be not angry with us for ever; Spare thy people whom thou hast redeemed with thy most pretious blood, and let not thine he<g ref="char:EOLhyphen"/>ritage be brought to utter confusion; oh hide not thy face from us in this time of our great trouble, but incline thine eares now we call; oh heare us and that right soone. Thou which buildest, and none can destroy, in the power of thy most tender mercies, repaire the breaches of this thy Sion, and prevent the desolations of this thy Jerusalem; make us once againe glad with the light of thy countenance, and now at last refresh us with the bles<g ref="char:EOLhyphen"/>sings of peace. O Lord according to all thy mercifulnesse, wee beseech thee, let thine anger, and thy fury be turned away from us; O Lord, hear, O Lord, forgive; O Lord hearken and grant; defer not for thine owne sake, delay not for thy truths
+<pb n="24" facs="tcp:119812:15"/>sake, O Lord our Saviour. Then shall the King rejoyce in thy strength (O Lord) and we, and all his people shall be exceeding glad of thy salvation, and shall blesse and praise thy glorious name, ever, world with<g ref="char:EOLhyphen"/>out end. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <p>O God, mercifull Father, that de<g ref="char:EOLhyphen"/>spisest not the sighing of a contrite heart, nor the desires of such as be sorrowfull, mercifully assist our prayers that we make before thee, in these our trou<g ref="char:EOLhyphen"/>bles and adversities now they oppresse us; and graciously heare us, that these evils which the craft and subtilty of the Devil &amp; man worketh against us, may be brought to nought, and by the providence of thy goodnesse they may be dispersed; that we thy servants being not hurt by these perse<g ref="char:EOLhyphen"/>cutions, may evermore give thanks unto thee in thy holy Church, through Jesus Christ our Lord. <hi>Amen.</hi>
+            </p>
+            <closer>VVE humbly beseech thee, <hi>&amp;c.</hi>
+            </closer>
+         </div>
+         <div type="prayer">
+            <p>LOrd raise up we pray thee, thy power, and come among us, and with great might succour us, that whereas through our sins and wickednesse, we be sore let and hindred, and through thy heavy
+<pb n="25" facs="tcp:119812:15"/>judgments upon us, for them, almost con<g ref="char:EOLhyphen"/>sumed, thy bountifull grace and mercy (through the satisfaction of thy Son our Lord) may speedily deliver us; to whom with thee, and the Holy Ghost, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>A Prayer for Peace.</head>
+            <p>O God which art Author of Peace, and Lover of Concord; which makest men to be of one mind in a Kingdom, most heartily we beseech thee of thy goodnesse and mercy, to grant us thy peace all the daies of our life; unite, O Lord, the hearts of the people in this land to their King; make us all (perceiving his tender care and love towards us) to return the tri<g ref="char:EOLhyphen"/>bute of loyalty and honour toward him; and duly considering whose authority he hath, faithfully to serve and humbly obey him, according to thy blessed word and ordinance. And unite, O Lord, the hearts of us all, each to other; and enflame our affections with love of thy truth; that we all, being members of the same body, through love, may be united one to ano<g ref="char:EOLhyphen"/>ther, &amp; to our head Christ Jesus; and serve thee in the unity of the spirit, and the bond of peace. Grant this, O Lord, for Jesus
+<pb n="26" facs="tcp:119812:16"/>Christs sake, our onely Mediator and Ad<g ref="char:EOLhyphen"/>vocate. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="thanksgiving">
+            <head>A Thanksgiving for deliverance from danger.</head>
+            <p>O Almighty God, which art a strong tower to thy servants, against the face of their enemies, we yeild thee praise and thanksgiving for our deliverance from those great and apparent dangers wherewith we were compassed; it was not our care, counsel, or strength which rescued us, but thy goodnesse, thy goodnesse only it was, that we were not delivered over as a prey unto our Adversaries; not unto us therefore, not unto us, O Lord, but to thy name be the honour and praise; and we be<g ref="char:EOLhyphen"/>seech thee still to continue such thy mercies towards us, that all the world may know, that thou art our Saviour and mighty De<g ref="char:EOLhyphen"/>liverer, through Jesus Christ our Lord. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="thanksgiving">
+            <pb n="27" facs="tcp:119812:16"/>
+            <head>A Thanksgiving for Victory.</head>
+            <p>O Lord God, which didst of late wound us for our sins, and con<g ref="char:EOLhyphen"/>sume us for our transgression, by the sharp sword of a prevailing enemy, who slew and subdued our dear brethren with a rage, which reached up to heaven; and even now purposed to assault us and keep us un<g ref="char:EOLhyphen"/>der as Bond-men, and Bond-women unto them; we blesse and praise thy glorious name, O Lord, that in the midst of judg<g ref="char:EOLhyphen"/>ment, thou hast remembred mercy, and comforted us after the time thou hadst af<g ref="char:EOLhyphen"/>flicted us, by giving us this Victory over our enemies; scattering, and destroying them who threatned destruction to us; O God, mighty in battle, it was thy right hand and holy arm which wrought this wonder<g ref="char:EOLhyphen"/>full work for us; therefore unto thy father<g ref="char:EOLhyphen"/>ly goodnesse, we offer our selves, our souls, and bodies, which thou hast delivered from fear, and exalted with comfort, to be a li<g ref="char:EOLhyphen"/>ving sacrifice unto thee, and will alwaies praise &amp; magnifie thee for these thy mercies in the midst of the Congregation, through Jesus Christ our Lord. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
